@@ -1,13 +1,3 @@
-## YiShaAdmin
- YiShaAdmin 基于.NET Core Web开发，借鉴了很多开源项目的优点，让你开发Web管理系统和移动端Api更简单，所以我也把她开源了。
- 她可以用于所有的Web应用程序，例如网站管理后台、CMS、CRM、ERP、OA这类的系统和移动端Api。<br />
- 
-| YiShaAdmin 版本 | .NET Core 版本 | 是否支持 | 链接 | Developer |
-|:-----|:-----|:-----|:-----|:-----|
-| 6.0 | 6.0 | 支持(开发中，不建议商用) | [YiShaAdmin-Net6.0](https://github.com/liukuo362573/YiShaAdmin/tree/YiShaAdmin-Net6) | [zgcwkj](https://github.com/zgcwkj) |
-| 3.1 | 3.1 | 支持 | [YiShaAdmin-Net3.1](https://github.com/liukuo362573/YiShaAdmin/tree/master) |  |
-| 2.2 | 2.2 | 支持 | [YiShaAdmin-Net2.2](https://github.com/liukuo362573/YiShaAdmin/releases/tag/v2.2)| |
-
 
 ## 内置功能
 
@@ -31,27 +21,3 @@
 
 文档地址：[https://www.toolhelper.cn/doc](http://www.toolhelper.cn/doc)  
 
-## QQ 交流群
-
-851661600
-
-## 演示图
-
-![登录页面](https://raw.githubusercontent.com/liukuo362573/YiShaAdmin/master/YiSha.Web/YiSha.Admin.Web/wwwroot/image/demo_1.jpg)
-![登录进去首页](https://raw.githubusercontent.com/liukuo362573/YiShaAdmin/master/YiSha.Web/YiSha.Admin.Web/wwwroot/image/demo_2.png)
-![用户列表](https://raw.githubusercontent.com/liukuo362573/YiShaAdmin/master/YiSha.Web/YiSha.Admin.Web/wwwroot/image/demo_3.png)
-![用户列表修改](https://raw.githubusercontent.com/liukuo362573/YiShaAdmin/master/YiSha.Web/YiSha.Admin.Web/wwwroot/image/demo_4.png)
-
-## 如何参与开源项目
-
-贡献使开源社区成为一个学习、激励和创造的绝佳场所。你所作的任何贡献都是**非常感谢**的。
-
-1. Fork本项目
-2. 创建开发分支 (`git checkout -b dev`)
-3. 提交更改 (`git commit -m 'Add something'`)
-4. 推送到分支 (`git push origin dev`)
-5. 提[Pull Request](https://github.com/liukuo362573/YiShaAdmin/compare)
-
-## License
-
-[MIT](https://github.com/liukuo362573/yishaadmin/blob/master/LICENSE)  

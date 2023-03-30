@@ -1,0 +1,17 @@
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\bin\Debug\net5.0\CMS.Data.deps.json
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\bin\Debug\net5.0\CMS.Data.dll
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\bin\Debug\net5.0\ref\CMS.Data.dll
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\bin\Debug\net5.0\CMS.Data.pdb
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\bin\Debug\net5.0\CMS.Enum.dll
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\bin\Debug\net5.0\CMS.Util.dll
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\bin\Debug\net5.0\CMS.Util.pdb
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\bin\Debug\net5.0\CMS.Enum.pdb
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\obj\Debug\net5.0\CMS.Data.csprojAssemblyReference.cache
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\obj\Debug\net5.0\CMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\obj\Debug\net5.0\CMS.Data.AssemblyInfoInputs.cache
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\obj\Debug\net5.0\CMS.Data.AssemblyInfo.cs
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\obj\Debug\net5.0\CMS.Data.csproj.CoreCompileInputs.cache
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\obj\Debug\net5.0\CMS.Data.csproj.CopyComplete
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\obj\Debug\net5.0\CMS.Data.dll
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\obj\Debug\net5.0\ref\CMS.Data.dll
+D:\作品\CMSAdmin\CMS.Data\CMS.Data\obj\Debug\net5.0\CMS.Data.pdb

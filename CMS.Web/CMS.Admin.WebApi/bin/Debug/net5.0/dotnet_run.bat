@@ -1,0 +1,1 @@
+dotnet CMS.Admin.WebApi.dll

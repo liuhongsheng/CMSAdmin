@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\CMS.Business\CMS.Business.Cache\CMS.Business.Cache.csproj" />
+    <ProjectReference Include="..\..\CMS.Data\CMS.Data.Repository\CMS.Data.Repository.csproj" />
+    <ProjectReference Include="..\..\CMS.Entity\CMS.Entity\CMS.Entity.csproj" />
+    <ProjectReference Include="..\CMS.Util\CMS.Util.csproj" />
+  </ItemGroup>
+
+</Project>

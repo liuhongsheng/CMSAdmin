@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="nunit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\CMS.Cache\CMS.Cache.Factory\CMS.Cache.Factory.csproj" />
+    <ProjectReference Include="..\..\CMS.Util\CMS.Util\CMS.Util.csproj" />
+    <ProjectReference Include="..\..\CMS.Business\CMS.Business.AutoJob\CMS.Business.AutoJob.csproj" />
+    <ProjectReference Include="..\..\CMS.Business\CMS.Business\CMS.Business.csproj" />
+    <ProjectReference Include="..\..\CMS.Data\CMS.Data.EF\CMS.Data.EF.csproj" />
+    <ProjectReference Include="..\..\CMS.Entity\CMS.Entity\CMS.Entity.csproj" />
+    <ProjectReference Include="..\..\CMS.Entity\CMS.Model\CMS.Model.csproj" />
+  </ItemGroup>
+
+</Project>

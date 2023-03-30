@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CMS.Cache.Interface/1.0.0": {
+        "runtime": {
+          "CMS.Cache.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CMS.Cache.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

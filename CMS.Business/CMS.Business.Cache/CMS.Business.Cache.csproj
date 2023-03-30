@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\CMS.Cache\CMS.Cache.Factory\CMS.Cache.Factory.csproj" />
+    <ProjectReference Include="..\..\CMS.Entity\CMS.Entity\CMS.Entity.csproj" />
+    <ProjectReference Include="..\CMS.Service\CMS.Service.csproj" />
+  </ItemGroup>
+
+</Project>

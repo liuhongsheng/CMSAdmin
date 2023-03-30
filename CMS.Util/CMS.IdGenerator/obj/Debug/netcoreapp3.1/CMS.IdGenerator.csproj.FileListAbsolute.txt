@@ -1,0 +1,14 @@
+D:\作品\CMSAdmin\CMS.Util\CMS.IdGenerator\bin\Debug\netcoreapp3.1\CMS.IdGenerator.deps.json
+D:\作品\CMSAdmin\CMS.Util\CMS.IdGenerator\bin\Debug\netcoreapp3.1\CMS.IdGenerator.dll
+D:\作品\CMSAdmin\CMS.Util\CMS.IdGenerator\bin\Debug\netcoreapp3.1\CMS.IdGenerator.pdb
+D:\作品\CMSAdmin\CMS.Util\CMS.IdGenerator\bin\Debug\netcoreapp3.1\CMS.Enum.dll
+D:\作品\CMSAdmin\CMS.Util\CMS.IdGenerator\bin\Debug\netcoreapp3.1\CMS.Util.dll
+D:\作品\CMSAdmin\CMS.Util\CMS.IdGenerator\bin\Debug\netcoreapp3.1\CMS.Util.pdb
+D:\作品\CMSAdmin\CMS.Util\CMS.IdGenerator\bin\Debug\netcoreapp3.1\CMS.Enum.pdb
+D:\作品\CMSAdmin\CMS.Util\CMS.IdGenerator\obj\Debug\netcoreapp3.1\CMS.IdGenerator.csprojAssemblyReference.cache
+D:\作品\CMSAdmin\CMS.Util\CMS.IdGenerator\obj\Debug\netcoreapp3.1\CMS.IdGenerator.AssemblyInfoInputs.cache
+D:\作品\CMSAdmin\CMS.Util\CMS.IdGenerator\obj\Debug\netcoreapp3.1\CMS.IdGenerator.AssemblyInfo.cs
+D:\作品\CMSAdmin\CMS.Util\CMS.IdGenerator\obj\Debug\netcoreapp3.1\CMS.IdGenerator.csproj.CoreCompileInputs.cache
+D:\作品\CMSAdmin\CMS.Util\CMS.IdGenerator\obj\Debug\netcoreapp3.1\CMS.IdGenerator.csproj.CopyComplete
+D:\作品\CMSAdmin\CMS.Util\CMS.IdGenerator\obj\Debug\netcoreapp3.1\CMS.IdGenerator.dll
+D:\作品\CMSAdmin\CMS.Util\CMS.IdGenerator\obj\Debug\netcoreapp3.1\CMS.IdGenerator.pdb

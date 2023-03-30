@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\CMS.Entity\CMS.Entity\CMS.Entity.csproj" />
+    <ProjectReference Include="..\..\CMS.Entity\CMS.Enum\CMS.Enum.csproj" />
+    <ProjectReference Include="..\..\CMS.Util\CMS.CodeGenerator\CMS.CodeGenerator.csproj" />
+    <ProjectReference Include="..\CMS.Business.Cache\CMS.Business.Cache.csproj" />
+    <ProjectReference Include="..\CMS.Service\CMS.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ToolManage\" />
+  </ItemGroup>
+
+</Project>

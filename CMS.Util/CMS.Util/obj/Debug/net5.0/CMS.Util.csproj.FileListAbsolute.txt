@@ -1,0 +1,15 @@
+D:\作品\CMSAdmin\CMS.Util\CMS.Util\bin\Debug\net5.0\CMS.Util.deps.json
+D:\作品\CMSAdmin\CMS.Util\CMS.Util\bin\Debug\net5.0\CMS.Util.dll
+D:\作品\CMSAdmin\CMS.Util\CMS.Util\bin\Debug\net5.0\ref\CMS.Util.dll
+D:\作品\CMSAdmin\CMS.Util\CMS.Util\bin\Debug\net5.0\CMS.Util.pdb
+D:\作品\CMSAdmin\CMS.Util\CMS.Util\bin\Debug\net5.0\CMS.Enum.dll
+D:\作品\CMSAdmin\CMS.Util\CMS.Util\bin\Debug\net5.0\CMS.Enum.pdb
+D:\作品\CMSAdmin\CMS.Util\CMS.Util\obj\Debug\net5.0\CMS.Util.csprojAssemblyReference.cache
+D:\作品\CMSAdmin\CMS.Util\CMS.Util\obj\Debug\net5.0\CMS.Util.GeneratedMSBuildEditorConfig.editorconfig
+D:\作品\CMSAdmin\CMS.Util\CMS.Util\obj\Debug\net5.0\CMS.Util.AssemblyInfoInputs.cache
+D:\作品\CMSAdmin\CMS.Util\CMS.Util\obj\Debug\net5.0\CMS.Util.AssemblyInfo.cs
+D:\作品\CMSAdmin\CMS.Util\CMS.Util\obj\Debug\net5.0\CMS.Util.csproj.CoreCompileInputs.cache
+D:\作品\CMSAdmin\CMS.Util\CMS.Util\obj\Debug\net5.0\CMS.Util.csproj.CopyComplete
+D:\作品\CMSAdmin\CMS.Util\CMS.Util\obj\Debug\net5.0\CMS.Util.dll
+D:\作品\CMSAdmin\CMS.Util\CMS.Util\obj\Debug\net5.0\ref\CMS.Util.dll
+D:\作品\CMSAdmin\CMS.Util\CMS.Util\obj\Debug\net5.0\CMS.Util.pdb

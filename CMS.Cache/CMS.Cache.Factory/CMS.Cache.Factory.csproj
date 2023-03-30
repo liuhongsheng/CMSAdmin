@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\CMS.Util\CMS.Util\CMS.Util.csproj" />
+    <ProjectReference Include="..\CMS.Cache.Interface\CMS.Cache.Interface.csproj" />
+    <ProjectReference Include="..\CMS.MemoryCache\CMS.MemoryCache.csproj" />
+    <ProjectReference Include="..\CMS.RedisCache\CMS.RedisCache.csproj" />
+  </ItemGroup>
+
+</Project>

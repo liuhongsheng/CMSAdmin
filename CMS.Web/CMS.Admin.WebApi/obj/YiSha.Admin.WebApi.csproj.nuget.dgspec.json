@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\作品\\YiShaAdmin-master\\YiSha.Web\\YiSha.Admin.WebApi\\YiSha.Admin.WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\作品\\YiShaAdmin-master\\YiSha.Web\\YiSha.Admin.WebApi\\YiSha.Admin.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\YiShaAdmin-master\\YiSha.Web\\YiSha.Admin.WebApi\\YiSha.Admin.WebApi.csproj",
+        "projectName": "YiSha.Admin.WebApi",
+        "projectPath": "D:\\作品\\YiShaAdmin-master\\YiSha.Web\\YiSha.Admin.WebApi\\YiSha.Admin.WebApi.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\YiShaAdmin-master\\YiSha.Web\\YiSha.Admin.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\作品\\YiShaAdmin-master\\CMS.Business\\CMS.Business.AutoJob\\CMS.Business.AutoJob.csproj": {
+                "projectPath": "D:\\作品\\YiShaAdmin-master\\CMS.Business\\CMS.Business.AutoJob\\CMS.Business.AutoJob.csproj"
+              },
+              "D:\\作品\\YiShaAdmin-master\\CMS.Business\\CMS.Business\\CMS.Business.csproj": {
+                "projectPath": "D:\\作品\\YiShaAdmin-master\\CMS.Business\\CMS.Business\\CMS.Business.csproj"
+              },
+              "D:\\作品\\YiShaAdmin-master\\CMS.Util\\CMS.Util\\CMS.Util.csproj": {
+                "projectPath": "D:\\作品\\YiShaAdmin-master\\CMS.Util\\CMS.Util\\CMS.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

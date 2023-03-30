@@ -1,0 +1,14 @@
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data\bin\Debug\netcoreapp3.1\YiSha.Data.deps.json
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data\bin\Debug\netcoreapp3.1\YiSha.Data.dll
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data\bin\Debug\netcoreapp3.1\YiSha.Data.pdb
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data\bin\Debug\netcoreapp3.1\YiSha.Enum.dll
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data\bin\Debug\netcoreapp3.1\YiSha.Util.dll
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data\bin\Debug\netcoreapp3.1\YiSha.Util.pdb
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data\bin\Debug\netcoreapp3.1\YiSha.Enum.pdb
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data\obj\Debug\netcoreapp3.1\YiSha.Data.csprojAssemblyReference.cache
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data\obj\Debug\netcoreapp3.1\YiSha.Data.AssemblyInfoInputs.cache
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data\obj\Debug\netcoreapp3.1\YiSha.Data.AssemblyInfo.cs
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data\obj\Debug\netcoreapp3.1\YiSha.Data.csproj.CoreCompileInputs.cache
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data\obj\Debug\netcoreapp3.1\YiSha.Data.csproj.CopyComplete
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data\obj\Debug\netcoreapp3.1\YiSha.Data.dll
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data\obj\Debug\netcoreapp3.1\YiSha.Data.pdb

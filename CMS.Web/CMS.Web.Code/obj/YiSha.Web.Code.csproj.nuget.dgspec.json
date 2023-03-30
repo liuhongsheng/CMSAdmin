@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\作品\\YiShaAdmin-master\\YiSha.Web\\YiSha.Web.Code\\YiSha.Web.Code.csproj": {}
+  },
+  "projects": {
+    "D:\\作品\\YiShaAdmin-master\\YiSha.Web\\YiSha.Web.Code\\YiSha.Web.Code.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\YiShaAdmin-master\\YiSha.Web\\YiSha.Web.Code\\YiSha.Web.Code.csproj",
+        "projectName": "YiSha.Web.Code",
+        "projectPath": "D:\\作品\\YiShaAdmin-master\\YiSha.Web\\YiSha.Web.Code\\YiSha.Web.Code.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\YiShaAdmin-master\\YiSha.Web\\YiSha.Web.Code\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\作品\\YiShaAdmin-master\\CMS.Cache\\CMS.Cache.Factory\\CMS.Cache.Factory.csproj": {
+                "projectPath": "D:\\作品\\YiShaAdmin-master\\CMS.Cache\\CMS.Cache.Factory\\CMS.Cache.Factory.csproj"
+              },
+              "D:\\作品\\YiShaAdmin-master\\CMS.Data\\CMS.Data.Repository\\CMS.Data.Repository.csproj": {
+                "projectPath": "D:\\作品\\YiShaAdmin-master\\CMS.Data\\CMS.Data.Repository\\CMS.Data.Repository.csproj"
+              },
+              "D:\\作品\\YiShaAdmin-master\\CMS.Util\\CMS.Util\\CMS.Util.csproj": {
+                "projectPath": "D:\\作品\\YiShaAdmin-master\\CMS.Util\\CMS.Util\\CMS.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

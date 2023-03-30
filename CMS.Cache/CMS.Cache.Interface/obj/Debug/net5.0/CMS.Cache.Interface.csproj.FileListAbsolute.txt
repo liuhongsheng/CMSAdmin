@@ -1,0 +1,12 @@
+D:\作品\CMSAdmin\CMS.Cache\CMS.Cache.Interface\bin\Debug\net5.0\CMS.Cache.Interface.deps.json
+D:\作品\CMSAdmin\CMS.Cache\CMS.Cache.Interface\bin\Debug\net5.0\CMS.Cache.Interface.dll
+D:\作品\CMSAdmin\CMS.Cache\CMS.Cache.Interface\bin\Debug\net5.0\ref\CMS.Cache.Interface.dll
+D:\作品\CMSAdmin\CMS.Cache\CMS.Cache.Interface\bin\Debug\net5.0\CMS.Cache.Interface.pdb
+D:\作品\CMSAdmin\CMS.Cache\CMS.Cache.Interface\obj\Debug\net5.0\CMS.Cache.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\作品\CMSAdmin\CMS.Cache\CMS.Cache.Interface\obj\Debug\net5.0\CMS.Cache.Interface.AssemblyInfoInputs.cache
+D:\作品\CMSAdmin\CMS.Cache\CMS.Cache.Interface\obj\Debug\net5.0\CMS.Cache.Interface.AssemblyInfo.cs
+D:\作品\CMSAdmin\CMS.Cache\CMS.Cache.Interface\obj\Debug\net5.0\CMS.Cache.Interface.csproj.CoreCompileInputs.cache
+D:\作品\CMSAdmin\CMS.Cache\CMS.Cache.Interface\obj\Debug\net5.0\CMS.Cache.Interface.dll
+D:\作品\CMSAdmin\CMS.Cache\CMS.Cache.Interface\obj\Debug\net5.0\ref\CMS.Cache.Interface.dll
+D:\作品\CMSAdmin\CMS.Cache\CMS.Cache.Interface\obj\Debug\net5.0\CMS.Cache.Interface.pdb
+D:\作品\CMSAdmin\CMS.Cache\CMS.Cache.Interface\obj\Debug\net5.0\CMS.Cache.Interface.csprojAssemblyReference.cache

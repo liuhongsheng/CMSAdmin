@@ -1,0 +1,1197 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.CodeGenerator\\CMS.CodeGenerator.csproj": {}
+  },
+  "projects": {
+    "D:\\作品\\CMSAdmin\\CMS.Business\\CMS.Business.Cache\\CMS.Business.Cache.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Business\\CMS.Business.Cache\\CMS.Business.Cache.csproj",
+        "projectName": "CMS.Business.Cache",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Business\\CMS.Business.Cache\\CMS.Business.Cache.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Business\\CMS.Business.Cache\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\作品\\CMSAdmin\\CMS.Business\\CMS.Service\\CMS.Service.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Business\\CMS.Service\\CMS.Service.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Factory\\CMS.Cache.Factory.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Factory\\CMS.Cache.Factory.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Entity\\CMS.Entity.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Entity\\CMS.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\作品\\CMSAdmin\\CMS.Business\\CMS.Service\\CMS.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Business\\CMS.Service\\CMS.Service.csproj",
+        "projectName": "CMS.Service",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Business\\CMS.Service\\CMS.Service.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Business\\CMS.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.Repository\\CMS.Data.Repository.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.Repository\\CMS.Data.Repository.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Entity\\CMS.Entity.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Entity\\CMS.Entity.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Enum\\CMS.Enum.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Enum\\CMS.Enum.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Model\\CMS.Model.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Model\\CMS.Model.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.IdGenerator\\CMS.IdGenerator.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.IdGenerator\\CMS.IdGenerator.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Factory\\CMS.Cache.Factory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Factory\\CMS.Cache.Factory.csproj",
+        "projectName": "CMS.Cache.Factory",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Factory\\CMS.Cache.Factory.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Factory\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Interface\\CMS.Cache.Interface.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Interface\\CMS.Cache.Interface.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.MemoryCache\\CMS.MemoryCache.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.MemoryCache\\CMS.MemoryCache.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.RedisCache\\CMS.RedisCache.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.RedisCache\\CMS.RedisCache.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Interface\\CMS.Cache.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Interface\\CMS.Cache.Interface.csproj",
+        "projectName": "CMS.Cache.Interface",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Interface\\CMS.Cache.Interface.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.MemoryCache\\CMS.MemoryCache.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.MemoryCache\\CMS.MemoryCache.csproj",
+        "projectName": "CMS.MemoryCache",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.MemoryCache\\CMS.MemoryCache.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.MemoryCache\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Interface\\CMS.Cache.Interface.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Interface\\CMS.Cache.Interface.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.RedisCache\\CMS.RedisCache.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.RedisCache\\CMS.RedisCache.csproj",
+        "projectName": "CMS.RedisCache",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.RedisCache\\CMS.RedisCache.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.RedisCache\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Interface\\CMS.Cache.Interface.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Interface\\CMS.Cache.Interface.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.0.600, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.EF\\CMS.Data.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.EF\\CMS.Data.EF.csproj",
+        "projectName": "CMS.Data.EF",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.EF\\CMS.Data.EF.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data\\CMS.Data.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data\\CMS.Data.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "EntityFrameworkCore.UseRowNumberForPaging": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.Repository\\CMS.Data.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.Repository\\CMS.Data.Repository.csproj",
+        "projectName": "CMS.Data.Repository",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.Repository\\CMS.Data.Repository.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.EF\\CMS.Data.EF.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.EF\\CMS.Data.EF.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data\\CMS.Data.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data\\CMS.Data.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data\\CMS.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data\\CMS.Data.csproj",
+        "projectName": "CMS.Data",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data\\CMS.Data.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[1.3.8, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Entity\\CMS.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Entity\\CMS.Entity.csproj",
+        "projectName": "CMS.Entity",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Entity\\CMS.Entity.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.IdGenerator\\CMS.IdGenerator.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.IdGenerator\\CMS.IdGenerator.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Web\\CMS.Web.Code\\CMS.Web.Code.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Web\\CMS.Web.Code\\CMS.Web.Code.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Enum\\CMS.Enum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Enum\\CMS.Enum.csproj",
+        "projectName": "CMS.Enum",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Enum\\CMS.Enum.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Enum\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Model\\CMS.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Model\\CMS.Model.csproj",
+        "projectName": "CMS.Model",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Model\\CMS.Model.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Entity\\CMS.Entity.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Entity\\CMS.Entity.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.CodeGenerator\\CMS.CodeGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.CodeGenerator\\CMS.CodeGenerator.csproj",
+        "projectName": "CMS.CodeGenerator",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.CodeGenerator\\CMS.CodeGenerator.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.CodeGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\作品\\CMSAdmin\\CMS.Business\\CMS.Business.Cache\\CMS.Business.Cache.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Business\\CMS.Business.Cache\\CMS.Business.Cache.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.Repository\\CMS.Data.Repository.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.Repository\\CMS.Data.Repository.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Entity\\CMS.Entity.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Entity\\CMS.Entity.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.IdGenerator\\CMS.IdGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.IdGenerator\\CMS.IdGenerator.csproj",
+        "projectName": "CMS.IdGenerator",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.IdGenerator\\CMS.IdGenerator.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.IdGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj",
+        "projectName": "CMS.Util",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Enum\\CMS.Enum.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Entity\\CMS.Enum\\CMS.Enum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\作品\\CMSAdmin\\CMS.Web\\CMS.Web.Code\\CMS.Web.Code.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\作品\\CMSAdmin\\CMS.Web\\CMS.Web.Code\\CMS.Web.Code.csproj",
+        "projectName": "CMS.Web.Code",
+        "projectPath": "D:\\作品\\CMSAdmin\\CMS.Web\\CMS.Web.Code\\CMS.Web.Code.csproj",
+        "packagesPath": "C:\\Users\\lhsh\\.nuget\\packages\\",
+        "outputPath": "D:\\作品\\CMSAdmin\\CMS.Web\\CMS.Web.Code\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lhsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Factory\\CMS.Cache.Factory.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Cache\\CMS.Cache.Factory\\CMS.Cache.Factory.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.Repository\\CMS.Data.Repository.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Data\\CMS.Data.Repository\\CMS.Data.Repository.csproj"
+              },
+              "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj": {
+                "projectPath": "D:\\作品\\CMSAdmin\\CMS.Util\\CMS.Util\\CMS.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

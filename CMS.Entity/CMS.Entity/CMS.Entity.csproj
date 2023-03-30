@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ToolManage\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\CMS.Util\CMS.IdGenerator\CMS.IdGenerator.csproj" />
+    <ProjectReference Include="..\..\CMS.Util\CMS.Util\CMS.Util.csproj" />
+    <ProjectReference Include="..\..\CMS.Web\CMS.Web.Code\CMS.Web.Code.csproj" />
+  </ItemGroup>
+
+</Project>

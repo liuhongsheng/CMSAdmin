@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\CMS.Data\CMS.Data.Repository\CMS.Data.Repository.csproj" />
+    <ProjectReference Include="..\..\CMS.Entity\CMS.Entity\CMS.Entity.csproj" />
+    <ProjectReference Include="..\..\CMS.Entity\CMS.Enum\CMS.Enum.csproj" />
+    <ProjectReference Include="..\..\CMS.Entity\CMS.Model\CMS.Model.csproj" />
+    <ProjectReference Include="..\..\CMS.Util\CMS.IdGenerator\CMS.IdGenerator.csproj" />
+    <ProjectReference Include="..\..\CMS.Util\CMS.Util\CMS.Util.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ToolManage\" />
+  </ItemGroup>
+
+</Project>

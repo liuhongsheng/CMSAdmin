@@ -1,0 +1,16 @@
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\bin\Debug\netcoreapp3.1\YiSha.RedisCache.deps.json
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\bin\Debug\netcoreapp3.1\YiSha.RedisCache.dll
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\bin\Debug\netcoreapp3.1\YiSha.RedisCache.pdb
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\bin\Debug\netcoreapp3.1\YiSha.Cache.Interface.dll
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\bin\Debug\netcoreapp3.1\YiSha.Enum.dll
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\bin\Debug\netcoreapp3.1\YiSha.Util.dll
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\bin\Debug\netcoreapp3.1\YiSha.Util.pdb
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\bin\Debug\netcoreapp3.1\YiSha.Cache.Interface.pdb
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\bin\Debug\netcoreapp3.1\YiSha.Enum.pdb
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\obj\Debug\netcoreapp3.1\YiSha.RedisCache.csprojAssemblyReference.cache
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\obj\Debug\netcoreapp3.1\YiSha.RedisCache.AssemblyInfoInputs.cache
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\obj\Debug\netcoreapp3.1\YiSha.RedisCache.AssemblyInfo.cs
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\obj\Debug\netcoreapp3.1\YiSha.RedisCache.csproj.CoreCompileInputs.cache
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\obj\Debug\netcoreapp3.1\YiSha.RedisCache.csproj.CopyComplete
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\obj\Debug\netcoreapp3.1\YiSha.RedisCache.dll
+D:\作品\YiShaAdmin-master\YiSha.Cache\YiSha.RedisCache\obj\Debug\netcoreapp3.1\YiSha.RedisCache.pdb

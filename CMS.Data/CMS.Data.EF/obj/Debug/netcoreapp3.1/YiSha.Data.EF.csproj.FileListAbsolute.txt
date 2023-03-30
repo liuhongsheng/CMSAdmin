@@ -1,0 +1,16 @@
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\bin\Debug\netcoreapp3.1\YiSha.Data.EF.deps.json
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\bin\Debug\netcoreapp3.1\YiSha.Data.EF.dll
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\bin\Debug\netcoreapp3.1\YiSha.Data.EF.pdb
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\bin\Debug\netcoreapp3.1\YiSha.Data.dll
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\bin\Debug\netcoreapp3.1\YiSha.Enum.dll
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\bin\Debug\netcoreapp3.1\YiSha.Util.dll
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\bin\Debug\netcoreapp3.1\YiSha.Util.pdb
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\bin\Debug\netcoreapp3.1\YiSha.Data.pdb
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\bin\Debug\netcoreapp3.1\YiSha.Enum.pdb
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\obj\Debug\netcoreapp3.1\YiSha.Data.EF.csprojAssemblyReference.cache
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\obj\Debug\netcoreapp3.1\YiSha.Data.EF.AssemblyInfoInputs.cache
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\obj\Debug\netcoreapp3.1\YiSha.Data.EF.AssemblyInfo.cs
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\obj\Debug\netcoreapp3.1\YiSha.Data.EF.csproj.CoreCompileInputs.cache
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\obj\Debug\netcoreapp3.1\YiSha.Data.EF.csproj.CopyComplete
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\obj\Debug\netcoreapp3.1\YiSha.Data.EF.dll
+D:\作品\YiShaAdmin-master\YiSha.Data\YiSha.Data.EF\obj\Debug\netcoreapp3.1\YiSha.Data.EF.pdb
